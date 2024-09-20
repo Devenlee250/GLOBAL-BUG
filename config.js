@@ -1,8 +1,8 @@
-global.namaown = "Qasim Ali" // your owner name here
-global.namabot = "© GlobalTechInfo" // your bot name here
+global.namaown = "𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈" // your owner name here
+global.namabot = "𝐍𝐎𝐕𝐀 🅱︎🆄︎🅶︎ ᵇᵒʸ " // your bot name here
 global.versisc = "9.5.0" //
-global.owner = ["923444844060"] // your owner number here
-global.tele = "https://t.me/GlobalBotInc" // your telegram here
+global.owner = ["263784562833"] // your owner number here
+global.tele = "https://t.me/strikerboy" // your telegram here
 global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
 global.namastore = "LynnZxD" // UBAH NAMA STORE LU
 global.simbol = "✪" // You Can Change Simbol
@@ -14,13 +14,13 @@ global.limitawal = {
 }
 
 // Ganti Logo Disini
-global.painlogo = "http://telegra.ph/file/9a332c815ad31956d5ce6.jpg" 
+global.painlogo = "https://i.imgur.com/3Fq3Ucq.jpeg" 
 
 global.my = {
-      saluran: "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07",
+      saluran: "https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p",
       idCH: "120363319098372999@newsletter",
       youtube: "https://www.youtube.com/@GlobalTechInfo",
-      telegram: "https://t.me/GlobalBotInc",
+      telegram: "https://t.me/strikerboy",
       Instagram: "https://www.instagram.com/"
    }
 
