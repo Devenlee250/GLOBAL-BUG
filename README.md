@@ -133,6 +133,11 @@ npm install && npm start
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
+
+## EARN MONEY
+<!-- Start of banner code -->
+<a href="https://clicksfly.com/ref/STRIKERBOY350"><img src="https://clicksfly.com/img/ref/clicksglygifbanner.gif" title="ClicksFly - Shorten URLs and Earn Money" /></a>
+<!-- End of banner code -->
 | [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/Devenlee350) |
 | --- |
 | [Qasim Ali](https://github.com/Devenlee350) |
