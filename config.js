@@ -1,7 +1,7 @@
-global.namaown = "CODEX" // your owner name here
+global.namaown = "JAMIE" // your owner name here
 global.namabot = "𝐍𝐎𝐕𝐀 🅱︎🆄︎🅶︎ ᵇᵒʸ " // your bot name here
 global.versisc = "9.5.0" //
-global.owner = ["263718228938","263771600813"] // your owner number here
+global.owner = ["263714321578"] // your owner number here
 global.tele = "https://t.me/strikerboy" // your telegram here
 global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
 global.namastore = "LynnZxD" // UBAH NAMA STORE LU
